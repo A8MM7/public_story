@@ -1,1 +1,3 @@
 It was the best of times. It was the best of times.
+
+This is to check the auto sync between local and remote repositories
